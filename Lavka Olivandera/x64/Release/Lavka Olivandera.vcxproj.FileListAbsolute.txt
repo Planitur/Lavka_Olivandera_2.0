@@ -1,0 +1,4 @@
+C:\Users\Planitar\source\repos\Lavka Olivandera\Lavka Olivandera\x64\Release\Lavka Olivandera.vcxproj.AssemblyReference.cache
+C:\Users\Planitar\source\repos\Lavka Olivandera\Lavka Olivandera\x64\Release\Lavka Olivandera.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Planitar\source\repos\Lavka Olivandera\Lavka Olivandera\x64\Release\LavkaOlivandera.MyForm.resources
+C:\Users\Planitar\source\repos\Lavka Olivandera\Lavka Olivandera\x64\Release\Lavka Olivandera.vcxproj.GenerateResource.cache

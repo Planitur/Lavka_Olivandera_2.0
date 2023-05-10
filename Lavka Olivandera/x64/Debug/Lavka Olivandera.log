@@ -1,0 +1,3 @@
+﻿  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Planitar\source\repos\Lavka Olivandera\x64\Debug\Lavka Olivandera.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
